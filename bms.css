@@ -1,0 +1,308 @@
+*{
+    box-sizing: border-box;
+ }
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+    .header-container{
+        background-color: #333545;
+        width: 100%;
+        height: 64px;
+        display: flex;
+         
+    }
+
+    .header-container img{
+        padding-left: 60px;
+        padding-top: 15px;
+    }
+
+    .header-container input{
+        margin-left: 15px;
+        margin-top: 13px;
+        width: 497px;
+        height: 39px;
+
+    
+    }
+
+    .profile-logo img{
+        width: 91px;
+
+        }
+    .header-container a{
+     color: white;
+     text-decoration: none;
+     margin-top: 20px;
+    }
+
+    .cochin{
+        padding-top: 20px;
+        padding-left: 400px;
+    }
+
+
+    .hi{
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+
+    .below-header{
+        width: 100%;
+        height: 40px;
+       
+        background-color: #222539;
+        display: flex;
+         
+    }
+
+    .below-header a{
+        
+        color: white;
+        text-decoration: none;
+        margin-left: 30px;
+        margin-top: 10px;
+        
+        
+        
+    }
+
+    .movies{
+        margin-left: 38px;
+        margin-top: 10px;
+    }
+
+    .stream{
+        margin-top: 10px;
+    }
+
+    .events{
+        margin-top: 10px;
+    }
+     
+    .plays{
+        margin-top: 10px;
+    }
+
+    .sports{
+        margin-top: 10px;
+    }
+    
+    .activities{
+        margin-top: 10px;
+    }
+
+    .buzz{
+        margin-top: 10px;
+        padding-right: 330px;
+    }
+
+    .listurshow{
+        margin-top: 10px;
+    }
+    .corporates{
+        margin-top: 10px;
+    }
+
+    .offers{
+        margin-top: 10px;
+    }
+
+    .giftcards{
+        margin-top: 10px;
+    }
+
+    .adv{
+        display: flex;
+        justify-content: center;
+        margin: 10px;
+    }
+
+    .main-container{
+        display: flex;
+        justify-content: center;
+    }
+
+    .rec,.best{
+        margin-left: 53px;
+        margin-top: 40px;
+    }
+
+    .ad2 img{
+        display: flex;
+        justify-content: center;
+        width: 1295px;
+        height: 103px;
+        padding-left: 53px;
+        margin-top: 70px;
+        margin-bottom: 70px;
+        
+    }
+
+    .entertainment{
+        display: flex;
+        justify-content: center;
+    }
+
+
+    .one img,.two img,.three img,.four img,.five img{
+        
+        width: 222px;
+        height: 222px;
+        margin: 17px;
+        margin-bottom: 50px;
+    }
+
+    .premiere-container{
+        padding-top: 100px;
+        width: 100%;
+        height: 560px;
+        background-color:  #2b3148;
+        display: flex;
+        justify-content: center;
+        
+    }
+
+
+    .a1 img,.a2 img,.a3 img,.a4 img,.a5 img{
+        
+        width: 222px;
+        height: 333px; 
+        margin: 17px;
+        
+       }
+       .list{
+           display: flex;
+           
+       }
+
+       .precont{
+           width: 100%;
+           height: 110px;
+           background-color:#2b3148 ;
+           
+       }
+
+       .preimg img{
+           width: 1240px;
+           height: 103px;
+           padding-left: 68px;
+           margin-top: 60px;
+       }
+
+       .a1 a,.a2 a,.a3 a,.a4 a,.a5 a{
+           text-decoration: none;
+           color: white;
+           justify-content: center;
+        text-align-last: center;
+       }
+
+       .privacy-container{
+           width: 100%;
+           height: 127px;
+           background-color: #f2f2f2;
+           padding: 53px;
+           margin-bottom: 50px;
+       }
+
+       .lys-container{
+           display: flex;
+           justify-content: space-evenly;
+           padding-top: 20px;
+
+        width: 100%;
+        height: 83px;
+        background-color: #313035;
+
+       }
+
+       button {
+        background-color: rgb(236, 94, 113);
+        border-radius: 3px;
+        padding: 10px 20px;
+        cursor: pointer;
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+      }
+
+      .menu-container{
+          display: flex;
+          justify-content: space-around;
+          width: 100%;
+          height: 112px;
+          background-color: #6084a8;
+          align-items: center;
+      }
+
+      .info-container{
+          position: absolute;
+          width: 100%;
+          height: 960px;
+          background-color: #333338;
+      }
+
+
+      .data a{
+          text-decoration: none;
+          font-size: x-small;
+          color:  rgb(165, 165, 165);
+          
+          justify-content: space-around;
+      }
+
+      .movies h6{
+          color:  rgb(165, 165, 165);
+          padding-top: 20px;
+          margin-left: 22px;
+      }
+      nav{
+          margin-left: 60px;
+      }
+
+      .upcoming a{
+        text-decoration: none;
+        font-size: x-small;
+        color:  rgb(165, 165, 165);
+        margin-left: 60px;
+      }
+
+      .upcoming h6{
+        color:  rgb(165, 165, 165);
+        padding-top: 20px;
+        margin-left: 60px;
+
+      }
+
+      .ss img{
+          margin-top: 30px;
+      }
+
+      .logo2 img{
+        position: relative;
+        left: 600px;
+        top: -27px;
+        
+      }
+
+      footer a{
+          position: relative;
+          left: 522px;
+          padding-bottom: 50px;
+          
+          
+      }
+
+      footer h6{
+          display: flex;
+          
+
+          color:rgb(165, 165, 165) ;
+          margin: 1px;
+          justify-content: center;
+      }
